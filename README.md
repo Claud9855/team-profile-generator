@@ -14,7 +14,7 @@ click on the [link](https://drive.google.com/file/d/1_jFGg-bMM_gdLABUnNpAxucdQvZ
 ## screenshots
 ---------------
 This is how you would start the app:
-![image](https://user-images.githubusercontent.com/37052240/191155327-635e28d8-08d9-4ab2-af10-796b0f13767a.png)
+![image](https://user-images.githubusercontent.com/37052240/191155822-aba8e737-e662-42cb-b3be-39a1c5655a75.png)
 
 Then you would answer a series of questions about your team members:
 ![image](https://user-images.githubusercontent.com/37052240/191155581-97b6ef3f-5ace-4166-9724-c2cdabf7d115.png)
