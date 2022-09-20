@@ -1,18 +1,28 @@
 {
-  "name": "week-10-challenge",
+  "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "- this app allows a user to generate a html file that will store the team profile\r - this app will first ask for the manager's information then proceed to asking for team member's information\r - after all necessary information is gather a generated html file is created with a polished ui displaying the team members information",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "inquirer": "^8.2.4",
+    "jest": "^29.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claud9855/team-profile-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Claud9855/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Claud9855/team-profile-generator#readme"
 }
