@@ -13,4 +13,11 @@ click on the [link](https://drive.google.com/file/d/1_jFGg-bMM_gdLABUnNpAxucdQvZ
 
 ## screenshots
 ---------------
+This is how you would start the app:
+![image](https://user-images.githubusercontent.com/37052240/191155327-635e28d8-08d9-4ab2-af10-796b0f13767a.png)
+
+Then you would answer a series of questions about your team members:
+![image](https://user-images.githubusercontent.com/37052240/191155581-97b6ef3f-5ace-4166-9724-c2cdabf7d115.png)
+
+when your done a generated HTML file is created with polish ui displaying the team members:
 ![image](https://user-images.githubusercontent.com/37052240/191154746-4e9e2958-9790-4e76-ba98-f0628b47a5fe.png)
